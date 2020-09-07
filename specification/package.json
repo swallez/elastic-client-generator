@@ -25,7 +25,7 @@
   "dependencies": {
     "byots": "3.9.0-dev.20200229.5.1",
     "glob": "^7.1.6",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "eslintConfig": {
     "rules": {
